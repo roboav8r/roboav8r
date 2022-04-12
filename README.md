@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roboav8r
 - 👀 I’m interested in human-robot interaction, robotics in open-world environments, state estimation, robot audition/vision, and aviation.
 - 🌱 I’m currently learning C++, scikit-learn, and Torch.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on human-robot interaction and stock valuation projects.
 - 📫 How to reach me: DM here or @roboav8r (Twitter, Instagram)
 
 <!---
