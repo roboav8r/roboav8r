@@ -1,9 +1,6 @@
-### John Duncan — perception &amp; world modeling for physical AI
+I'm a a machine-learning engineer at **[Voxel51](https://voxel51.com)**, where I help teams across industries wrangle and evaluate ML data with FiftyOne. Prior to that, I earned my Ph.D. in Robotics from UT-Austin, where I specialized in multimodal perception for command and control of robots in dynamic, unstructured environments.
 
-Roboticist with a PhD in perception. By day, a machine-learning engineer at
-**[Voxel51](https://voxel51.com)**, helping teams across industries wrangle and evaluate
-computer-vision data with FiftyOne. Off the clock, building robots and the systems that let
-them understand where they are.
+Currently in my spare time, I am designing and building a robot from scratch and unifying my perception research into a new world model framework.
 
 **What I'm working on**
 
