@@ -1,22 +1,16 @@
-I'm a a machine-learning engineer at **[Voxel51](https://voxel51.com)**, where I help teams across industries wrangle and evaluate ML data with FiftyOne. Prior to that, I earned my Ph.D. in Robotics from UT-Austin, where I specialized in multimodal perception for command and control of robots in dynamic, unstructured environments.
+I'm a customer success machine learning engineer at **[Voxel51](https://voxel51.com)**, where I work with our enterprise customers to implement their ML workflows in FiftyOne. I earned my [Ph.D. in Robotics from UT-Austin](https://repositories.lib.utexas.edu/items/bad863db-7c48-4279-bbf7-e29f7ccbee7c), where I specialized in multimodal perception for command and control of robots in dynamic, unstructured environments.
 
-Currently in my spare time, I am designing and building a robot from scratch and unifying my perception research into a new world model framework.
+In my spare time, I am designing and building a robot from scratch and unifying my perception research into a new world model framework.
 
 **What I'm working on**
 
-- 🤖 **Arwun** — a self-balancing, tracked robot with flipper-gripper arms, moving from
-  Drake/LQR control onto the NVIDIA Isaac stack (Isaac ROS on a Jetson Orin Nano, Isaac Sim
-  for synthetic data and sim-to-real). Build log: https://roboav8r.github.io/log/
-- 🧭 **PRISM** — a graph-based world model: a GTSAM factor-graph backend, a hierarchical
-  scene graph, and an LLM-grounded policy layer, fed by accelerated perception front-ends.
-- 🔭 **FiftyOne plugins** — open-source tooling for object tracking and dataset evaluation:
-  [`fiftyone-object-tracking`](https://github.com/roboav8r/fiftyone-object-tracking) ·
-  [`fiftyone-aws`](https://github.com/roboav8r/fiftyone-aws)
+- 🤖 **Arwun**: a self-balancing, tracked robot. Build log: https://roboav8r.github.io/log/
+- 🧭 **PRISM**: a graph-based world model framework. Comprised of a GTSAM factor-graph backend + scene graph + LLM-grounded policy layer, fed by accelerated perception front-ends.
+- 🔭 **FiftyOne plugins**: specialized extensions for the FiftyOne ML framework
+  - [`FiftyOne Object Tracking`](https://github.com/roboav8r/fiftyone-object-tracking)
+  - [`FiftyOne AWS`](https://github.com/roboav8r/fiftyone-aws)
 
-**Background:** aerospace/defense engineering → robotics PhD (perception, multi-object
-tracking) → ML engineering. U.S. Army Reserve.
-
-**Interests:** perception, state estimation, tracking, sim-to-real, edge robotics.
+**Interests:** vision/LiDAR/audio perception for robots and intelligent systems, multiobject tracking, state estimation, scene graphs. Plus a little bit of game theory and investing.
 
 🌐 [roboav8r.github.io](https://roboav8r.github.io) ·
 💼 [LinkedIn](https://www.linkedin.com/in/john-a-duncan/)
